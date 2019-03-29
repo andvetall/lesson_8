@@ -54,4 +54,4 @@ var users = [
     new User ( "Антон" ),
     new User ( "Демьян" ),
     new User ( "Василий" )
-]
+    ]
